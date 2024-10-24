@@ -1,4 +1,4 @@
-# Maxit
+# MAXIT
 
 ## Overview
 
