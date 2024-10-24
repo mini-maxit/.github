@@ -20,4 +20,4 @@ This application is designed to facilitate the process of uploading problems, pr
 - **Orchestration**: Docker for containerization
 
 ## Architecture
-![architecture](assets/maxit-architecture.pdf)
+![Architecure Diagram](https://github.com/mini-maxit/.github/blob/main/assets/maxit-architecture.pdf)
