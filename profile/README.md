@@ -18,3 +18,6 @@ This application is designed to facilitate the process of uploading problems, pr
 - **Brocker**: RabbitMQ
 - **Database**: PostgreSQL
 - **Orchestration**: Docker for containerization
+
+## Architecture
+![architecture](assets/maxit-architecture.pdf)
