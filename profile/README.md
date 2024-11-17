@@ -15,7 +15,7 @@ This application is designed to facilitate the process of uploading problems, pr
 
 - **Frontend**: Svelte with TypeScript
 - **Backend, Worker, FileStorage**: Golang
-- **Brocker**: RabbitMQ
+- **Broker**: RabbitMQ
 - **Database**: PostgreSQL
 - **Orchestration**: Docker for containerization
 
